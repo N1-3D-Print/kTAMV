@@ -17,7 +17,7 @@ __CV_TIMEOUT = 20
 # Minimum amount of matches to confirm toolhead position after a move
 __CV_MIN_MATCHES = 3 
 # Size of frame to use
-_FRAME_WIDTH = 1920
+_FRAME_WIDTH = 1080
 _FRAME_HEIGHT = 1080
 
 # FPS to use when running the preview
