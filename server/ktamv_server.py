@@ -21,7 +21,7 @@ _FRAME_WIDTH = 1280
 _FRAME_HEIGHT = 720
 
 # FPS to use when running the preview
-__PREVIEW_FPS = 2
+__PREVIEW_FPS = 4
 
 # If the nozzle position is within this many pixels when comparing frames, it's considered a match. Only whole numbers are supported.
 __detection_tolerance = 0
