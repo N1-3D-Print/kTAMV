@@ -7,8 +7,8 @@ import json
 
 
 class ktamv:
-    __FRAME_WIDTH = 1920
-    __FRAME_HEIGHT = 1080
+    __FRAME_WIDTH = 640
+    __FRAME_HEIGHT = 480
 
     def __init__(self, config):
         # Load config values
