@@ -5,7 +5,7 @@ from requests.exceptions import InvalidURL, ConnectionError # , HTTPError, Reque
 import base64
 
 # Size of frame to use
-_FRAME_WIDTH = 1280
+_FRAME_WIDTH = 1920
 _FRAME_HEIGHT = 1080
  
 class Ktamv_Server_Io:
