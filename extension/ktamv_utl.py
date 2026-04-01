@@ -11,7 +11,7 @@ import urllib.request
 from email.message import Message  # For headers in server_request
 
 __SERVER_REQUEST_TIMEOUT = 2
-__FRAME_WIDTH = 1920
+__FRAME_WIDTH = 1080
 __FRAME_HEIGHT = 1080
 
 class NozzleNotFoundException(Exception):
